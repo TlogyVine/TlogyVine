@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TlogyVine
 - 👀 I am interested in playing tennis, cycling, and sleeping
 - 🌱 I’m currently learning algorihtms
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on C++projects
 - 📫 My email address is: 1214677811@qq.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: lost interest in the game
